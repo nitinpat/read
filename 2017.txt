@@ -1,0 +1,109 @@
+1. Azure ML POC for Retail COE
+A]Task:- 
+To Recommend :-
+a. Product(s) for product(s) added in cart
+b. Top 5 bundles for product(s) added in cart
+c. Top 5 bundles + random ‘least selling product’ for product(s) added in cart
+
+B]Role:- To create Azure Machine Learning models for meaningful product bundles from transactional data and expose them as web services.
+
+C]Technology/Tools:- 
+Azure ML Studio- To create Association rules using R language for product bundles as ML models and publish them as web services.
+
+D]Time Spent :-
+From 1/2/2017 to 24/2/2017 ~ around 4 weeks
+----------------------------------------------
+
+
+2. Power BI POC for E-commerce COE
+A]Task:- 
+To create dashboard showing :-
+a. Graph of products Picked vs Bought
+b. Customer Density – Number of customers visiting in a specific area of a store(shelf) per day
+c. Promotion effectiveness (advertisement sent vs advertisement clicks)
+
+B]Role:- To create dashboards.
+
+C]Technology/Tools:- 
+Power BI Desktop- To create visualization reports  of IoT related retail data from Casandra database and publish them as dashboards.
+
+D]Time Spent :-
+From 18/10/2016 to 27/10/2016 ~ about 2 weeks
+----------------------------------------------
+
+
+3. Expedia Hotel Recommendation(Internal POC)
+A]Task:- 
+To predict the booking outcome (hotel cluster) for a user event, based on their search And other attributes associated with that user event.
+
+B]Role:- To create Azure Machine Learning(ML) models to recommend hotels.
+
+C]Technology/Tools:- 
+Azure ML Studio- To create ML models
+
+D]Time Spent :-
+From 3/10/2016 to  to 27/1/2017 ~ about 4 months
+----------------------------------------------
+
+
+4. Retrain Machine Learning(ML) models Using Azure(Internal POC)
+A]Task:- 
+Here, I used Healthcare domain dataset.
+To predict whether a patient will readmit to hospital or not within 30 days.
+
+B]Role:- To do Azure Machine Learning(ML) model retraining.
+
+C]Technology/Tools:- 
+Azure ML Studio- To create ML model
+Azure subscription- To update ML model
+
+D]Time Spent :-
+From 14/10/2016 to 30/11/2016 ~ about 7 weeks
+----------------------------------------------
+
+5. I have Explored MS Azure
+A]Task:- 
+I have used MS Azure to create following services :-
+a. Windows Virtual Machine
+b. Standard Azure ML Workspace
+c. Azure Sql Database
+d. HDInsight
+e. Azure Storage
+f. Web App to consume Azure ML model.
+
+B]Technology/Tools:- 
+Azure subscription- To create above services
+
+C]Time Spent :-
+From 3/10/2016 to 30/11/2016 ~ about 2 months
+----------------------------------------------
+
+6. Retail Churn Prediction
+A]Task:- 
+Here, I am using dataset related to online retail domain.
+Using RFM(Recency, Frequency, Monetary) model to create customer clusters and then predict the customers attrition.
+
+B]Technology/Tools:-
+Azure ML Studio- To create ML models for clustering and classification.
+
+C]Time Spent :-
+From 24/1/2017 onwards.
+----------------------------------------------
+
+
+Specify contribution made by you in order to enhance Company's business opportunity or Client relations:
+1. Azure ML POC for Retail COE
+To sell products as bundles instead of single product would increase company sales.
+
+2. Power BI POC for E-commerce COE
+I have created dashboards to give demo for Cybage iCommerce project and Amway.
+----------------------------------------------
+
+
+State specific and SMART goals you hope to achieve during the next appraisal period:
+1. To explore different use cases related to Retail domain.
+2. To learn Big data stack.
+----------------------------------------------
+
+
+
